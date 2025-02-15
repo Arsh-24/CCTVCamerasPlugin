@@ -1,0 +1,4 @@
+# Default configuration for CCTVCamerasPlugin
+# You can add your configuration options here
+
+cameras: []

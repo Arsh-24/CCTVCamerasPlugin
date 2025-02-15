@@ -1,0 +1,9 @@
+name: CCTVCamerasPlugin
+main: com.example.cctvcameras.CCTVCamerasPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  cctv:
+    description: Manage CCTV cameras and monitors.
+    usage: /cctv <camera|monitor> give <player>
+    aliases: [cctvcam]
